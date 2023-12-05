@@ -4,7 +4,7 @@
 
 ![DigitalChristmasTreeFarm 封面](../images/DigitalChristmasTreeFarmCover.png)
 
-[English](../README.md) | 中文
+📜 Read in [English](../README.md) | 中文 📜
 
 </div>
 
