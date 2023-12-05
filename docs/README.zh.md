@@ -2,9 +2,9 @@
 
 # 🎄🎅 DigitalChristmasTreeFarm (数字圣诞树农场) 🌟❄️
 
-![DigitalChristmasTreeFarm 封面](./images/DigitalChristmasTreeFarmCover.png)
+![DigitalChristmasTreeFarm 封面](../images/DigitalChristmasTreeFarmCover.png)
 
-[English](./README.md) | [中文](./README.zh.md)
+[English](../README.md) | 中文
 
 </div>
 
