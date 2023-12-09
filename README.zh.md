@@ -2,9 +2,9 @@
 
 # 🎄🎅 DigitalChristmasTreeFarm (数字圣诞树农场) 🌟❄️
 
-![DigitalChristmasTreeFarm 封面](../images/DigitalChristmasTreeFarmCover.png)
+![DigitalChristmasTreeFarm 封面](images/DigitalChristmasTreeFarmCover.png)
 
-📜 Read in [English](../README.md) | 中文 📜
+📜 Read in [English](README.md) | 中文 📜
 
 </div>
 
@@ -34,8 +34,26 @@
 ## 🎨 节日树木画廊
 欣赏由代码精心打造的闪烁树木——每一棵都是字节和装饰品的庆祝。
 
-### 🐍 Python 冷杉和节日风情
-这棵 Python 树用算法装饰品闪烁着，非常适合那些喜欢在脚本中加入一点糖和香料的编码者。
+### 🎄🌟 Python 项目分级 🌟🎄
+开始我们的 Python 编程雪橇之旅，每个级别都比前一个更闪耀，更欢快！
+
+#### 🎁 01_基础 - “拆开基础的礼物”
+开启你的 Python 之旅，带着一丝节日魔法！非常适合刚开始编程冒险的小精灵。
+
+- **[01_项目：简易圣诞树](python/01_Basic/01_Project/README.md)**
+  ![简易圣诞树](python/01_Basic/01_Project/simple_christmas_tree.jpg)
+  用这个简单却迷人的圣诞树脚本点亮你的编码世界。就像在 Python 树下打开你的第一个礼物！
+
+🌟 **小贴士**：点击项目名称 - 它们就像通往代码冬日仙境的秘密通道！
+
+#### ⛄ 02_中级 - “铃铛响叮当”
+通过这些更激动人心的项目构建技能雪人，比找到盒子里最后一根糖果棒还要有趣。
+
+#### 🦌 03_高级 - “驯鹿游戏”
+用这些高级项目提升你的 Python 技能到树梢。复杂的算法和精妙的代码结构？没问题！
+
+#### 🌠 04_专家 - “圣诞老人的工作坊”
+对于那些听到铃声并回应编码精通呼唤的人。专家级挑战，创新和照亮 Python 天空。
 
 ### 💻 HTML/CSS 云杉穿上节日盛装
 精心制作并用 CSS 裹上霜雪，这棵树在冬日的冷字节中温暖地发光，真正体现了季节之美。
