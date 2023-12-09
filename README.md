@@ -42,7 +42,7 @@ Embark on a joyful coding sleigh ride with our Python projects, each level bring
 #### 🎁 01_Basic - "Unwrap the Basics"
 Start your Python journey with a sprinkle of holiday magic! Perfect for elves who are just beginning their coding adventure.
 
-##### 🎄 [01_Project: Simple Christmas Tree](python/01_Basic/01_Project/README.md)
+##### 🎄 [01_Project: Simple Christmas Tree](python/01_Basic/01_Project)
 Get ready to jingle all the way through code with this enchanting Christmas tree project! Perfect for those who want to mix a bit of holiday cheer with Python. It's an ideal starting point for coding elves and Santa's little helpers in the making!
 
 #### ⛄ 02_Intermediate - "Jingle All the Way"
