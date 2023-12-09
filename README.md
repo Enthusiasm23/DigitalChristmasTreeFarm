@@ -37,14 +37,13 @@ Behold the twinkling array of code-crafted trees—each one a celebration of byt
 ### 🎄🌟 Python Projects by Level 🌟🎄
 Embark on a joyful coding sleigh ride with our Python projects, each level bringing more sparkle and cheer than the last!
 
+🌟 **Pro Tip**: Click on the project names - they're like secret passages to a winter wonderland of code!
+
 #### 🎁 01_Basic - "Unwrap the Basics"
 Start your Python journey with a sprinkle of holiday magic! Perfect for elves who are just beginning their coding adventure.
 
-- **[01_Project: Simple Christmas Tree](python/01_Basic/01_Project/README.md)**
-  ![Simple Christmas Tree](python/01_Basic/01_Project/simple_christmas_tree.jpg)
-  Light up your coding world with this simple yet enchanting Christmas tree script. It's like opening your first present under the Python tree!
-
-🌟 **Pro Tip**: Click on the project names - they're like secret passages to a winter wonderland of code!
+##### 🎄 [01_Project: Simple Christmas Tree](python/01_Basic/01_Project/README.md)
+Get ready to jingle all the way through code with this enchanting Christmas tree project! Perfect for those who want to mix a bit of holiday cheer with Python. It's an ideal starting point for coding elves and Santa's little helpers in the making!
 
 #### ⛄ 02_Intermediate - "Jingle All the Way"
 Build a snowman of skills with these projects that are more exciting than finding the last candy cane in the box.
