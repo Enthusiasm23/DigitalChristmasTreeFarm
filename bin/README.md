@@ -1,4 +1,11 @@
+<div align="center">
+
 # 🌲🎉 Festive Trees in Binary 🎉🌲
+
+📜 Read in English | [中文](bin/README.zh.md) 📜
+
+</div>
+
 
 Welcome to the digital forest of festivity where our Christmas trees aren't just trees, they're a whole mood! Here, we've planted two special arboreal wonders that'll make your computer's holiday season bright and merry. Feast your eyes and click your mice, these trees are ready to light up your digital halls!
 
