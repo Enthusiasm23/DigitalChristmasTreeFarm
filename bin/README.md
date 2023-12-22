@@ -2,7 +2,7 @@
 
 # 🌲🎉 Festive Trees in Binary 🎉🌲
 
-📜 Read in English | [中文](bin/README.zh.md) 📜
+📜 Read in English | [中文](README.zh.md) 📜
 
 </div>
 
@@ -11,13 +11,13 @@ Welcome to the digital forest of festivity where our Christmas trees aren't just
 
 ## 🎅🌲 Evergreen Sparky Christmas Tree (常青闪闪圣诞树) 🌟🎁
 
-![Evergreen Sparky Christmas Tree](bin/EvergreenSparkyChristmasTree(常青闪闪圣诞树).png)
+![Evergreen Sparky Christmas Tree](EvergreenSparkyChristmasTree(常青闪闪圣诞树).png)
 
 Say hello to the `Evergreen Sparky`! This isn't your average conifer. Decked out in twinkling digital lights, it's ready to bring a festive glow to your desktop. This tree stands tall and proud, pixels gleaming with yuletide joy. Just double-click and watch the Christmas magic unfold on your screen.
 
 ## 🔌💡 Circuitree Glow Christmas Tree (电路树之光圣诞树) 🎄🔮
 
-![Circuitree Glow Christmas Tree](bin/CircuitreeGlowChristmasTree(电路树之光圣诞树).png)
+![Circuitree Glow Christmas Tree](CircuitreeGlowChristmasTree(电路树之光圣诞树).png)
 
 And then there's the `Circuitree Glow`! It's where Christmas spirit meets the motherboard. This tree is a dazzling display of tech and tradition, a cascade of colorful lights that doubles as a cool Yule-tide gadget. It's the perfect combination of holiday cheer and geek chic. Launch it and let the electronic carols begin!
 
