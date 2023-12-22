@@ -54,6 +54,19 @@ Advanced projects to elevate your Python skills to the top of the tree. Complex 
 #### 🌠 04_Expert - "Santa's Workshop"
 For those who hear the bells and answer the call of coding mastery. Expert-level challenges to innovate and illuminate the Python skies.
 
+### 🎅💾 Festive Executables - "Ho-Ho-Code!"
+
+Journey beyond Python and experience the festive fun with our specially designed executable Christmas trees. These aren't your ordinary holiday decorations - they're a binary ballet of holiday spirit!
+
+##### 🌲✨ [Evergreen Sparky Christmas Tree](bin/) 🎁💫
+
+Welcome to the everlasting luminescence of the `Evergreen Sparky`! This tree doesn't just twinkle; it radiates the very essence of Christmas cheer. Grab the `.exe` and let your desktop be a beacon of holiday spirit! Find it in the [bin/EvergreenSparkyChristmasTree.exe](bin/EvergreenSparkyChristmasTree(常青闪闪圣诞树).exe).
+
+##### 🔌🌟 [Circuitree Glow Christmas Tree](bin/) 💡🎄
+
+Behold the `Circuitree Glow`, where silicon meets tinsel in a symphony of LED lights. It's not just a Christmas tree; it's a Christmas tree with a tech twist! Charge up your holiday by running the glow from [bin/CircuitreeGlowChristmasTree.exe](bin/CircuitreeGlowChristmasTree(电路树之光圣诞树).exe).
+
+
 ### 💻 HTML/CSS Spruce Dressed in Holiday Style
 Crafted with care and frosted with CSS, this tree glows warmly in the cold bytes of winter, a true testament to the season's beauty.
 
