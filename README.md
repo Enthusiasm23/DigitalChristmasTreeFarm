@@ -42,7 +42,7 @@ Embark on a joyful coding sleigh ride with our Python projects, each level bring
 #### 🎁 01_Basic - "Unwrap the Basics"
 Start your Python journey with a sprinkle of holiday magic ✨! Perfect for elves who are just beginning their coding adventure.
 
-##### ❄️ [Ascii Christmas Tree](python/01_Basic/AsciiChristmasTree)
+##### ❄️ [ASCII Christmas Tree](python/01_Basic/AsciiChristmasTree)
 Step into a winter wonderland of code with the `Ascii Christmas Tree`! This jolly little script will turn your terminal into a festive display of ASCII art 🎨. Run the script and let your screen sparkle with the spirit of the season 🎅🌨️. Perfect for those cozy coding nights by the fireplace 🔥 and a fantastic way to spread the Christmas cheer in the geekiest way possible!
 
 ##### 🎄 [Simple Christmas Tree](python/01_Basic/SimpleChristmasTree)
