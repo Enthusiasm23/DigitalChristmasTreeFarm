@@ -87,4 +87,7 @@ Experience a touch of the cosmos with the `Meteor Christmas Tree`! 🎄💫 This
 #### 🎄 [Crystal Ball Christmas Tree](htmlCSS/CrystalBallChristmasTree/)
 Behold the `Crystal Ball Christmas Tree`, a digital masterpiece that spirals into the festive season with elegance and sparkle! 🌟🔮 Admire this tree's shimmering lights that twinkle like stars on a clear Christmas eve. A modern twist on holiday traditions, perfect for those who love to blend tech with festivity. Click to explore a tree where each light is a globe of wonder!
 
+#### 🌐 [Snow Globe Christmas Tree](htmlCSS/SnowGlobeChristmasTree/)
+Discover the wonder of the `Snow Globe Christmas Tree`, where each click brings a snowfall of delight! 🌨️🎄 A festive gem that encapsulates the merry essence of the holidays in a whimsical, wintry orb. Navigate to witness a classic holiday charm reimagined for the digital era!
+
 ... and many more!
