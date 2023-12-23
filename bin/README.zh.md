@@ -11,13 +11,13 @@
 
 ## 🎅🌲 常青闪闪圣诞树 (Evergreen Sparky Christmas Tree) 🌟🎁
 
-![常青闪闪圣诞树](EvergreenSparkyChristmasTree(常青闪闪圣诞树).png)
+![常青闪闪圣诞树](EvergreenSparkyChristmasTree(常青闪闪圣诞树).gif)
 
 向`常青闪闪`问好！这不是你通常见到的松树。装饰着闪烁的数字灯光，它准备在你的桌面上带来节日的光芒。这棵树挺拔而自豪，像素点闪耀着圣诞节的欢乐。只需双击，就能在你的屏幕上展开圣诞魔法。
 
 ## 🔌💡 电路树之光圣诞树 (Circuitree Glow Christmas Tree) 🎄🔮
 
-![电路树之光圣诞树](CircuitreeGlowChristmasTree(电路树之光圣诞树).png)
+![电路树之光圣诞树](CircuitreeGlowChristmasTree(电路树之光圣诞树).gif)
 
 然后是`电路树之光`！这是圣诞精神与主板的相遇。这棵树是技术与传统的耀眼展示，彩色灯光的瀑布同时也是一个酷炫的圣诞小工具。它是节日欢乐与极客时尚的完美结合。启动它，让电子颂歌开始！
 
