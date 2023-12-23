@@ -45,6 +45,9 @@ Start your Python journey with a sprinkle of holiday magic ✨! Perfect for elve
 ##### ❄️ [ASCII Christmas Tree](python/01_Basic/AsciiChristmasTree)
 Step into a winter wonderland of code with the `Ascii Christmas Tree`! This jolly little script will turn your terminal into a festive display of ASCII art 🎨. Run the script and let your screen sparkle with the spirit of the season 🎅🌨️. Perfect for those cozy coding nights by the fireplace 🔥 and a fantastic way to spread the Christmas cheer in the geekiest way possible!
 
+##### 🧱🎄 [Brick Christmas Tree](python/01_Basic/BrickChristmasTree)
+Construct your own digital Christmas delight with the `Brick Christmas Tree` script! 🏗️🌟 Watch as blocks of holiday joy stack up to form a charming tree right before your eyes in the terminal. Ideal for festive programmers who like their Christmas trees pixel-perfect and their cheer compiled! Just run the script and let the merriment compile! 🎁👩‍💻 Great for anyone looking to build up their holiday spirits block by block!
+
 ##### 🎄 [Simple Christmas Tree](python/01_Basic/SimpleChristmasTree)
 Get ready to jingle all the way through code 🎵 with this enchanting Christmas tree project! Perfect for those who want to add a bit of holiday cheer 🎉 to their Python skills. It's an ideal starting point for coding elves 🧝 and Santa's little helpers in the making!
 
