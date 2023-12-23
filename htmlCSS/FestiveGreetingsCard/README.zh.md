@@ -2,6 +2,8 @@
 
 # 🎄 节日问候卡 💌
 
+![Festive Greetings Card GIF](./FestiveGreetingsCard.png)
+
 📜 Read in [English](README.md) | 中文 📜
 
 </div>
