@@ -84,4 +84,7 @@ Enter a pixel-perfect paradise with the `Winter Wonderland Christmas Tree`! A se
 #### 🌠 [Meteor Christmas Tree](htmlCSS/MeteorChristmasTree/)
 Experience a touch of the cosmos with the `Meteor Christmas Tree`! 🎄💫 This project combines the wonder of the holiday season with the awe-inspiring beauty of a meteor trail across the night sky. Perfect for those seeking to add a celestial twist to their festive celebrations. Click to see a Christmas tree like no other, where every star is a wish come true!
 
+#### 🎄 [Crystal Ball Christmas Tree](htmlCSS/CrystalBallChristmasTree/)
+Behold the `Crystal Ball Christmas Tree`, a digital masterpiece that spirals into the festive season with elegance and sparkle! 🌟🔮 Admire this tree's shimmering lights that twinkle like stars on a clear Christmas eve. A modern twist on holiday traditions, perfect for those who love to blend tech with festivity. Click to explore a tree where each light is a globe of wonder!
+
 ... and many more!
