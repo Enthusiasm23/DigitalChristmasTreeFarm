@@ -54,7 +54,7 @@ Get ready to jingle all the way through code 🎵 with this enchanting Christmas
 #### ⛄ 02_Intermediate - "Jingle All the Way"
 Build a snowman of skills with these projects that are more exciting than finding the last candy cane in the box.
 
-##### 🎨🎄 [Christmas Tree Card Crafter](python/02_Intermediate/ChristmasTreeCard)
+##### 🎨🎄 [Christmas Tree Card](python/02_Intermediate/ChristmasTreeCard)
 Unleash the holiday spirit with a dash of Python magic! The `Christmas Tree Card` project lets you whip up festive greeting cards that jingle all the way through code! 💌🎅 Customize with joyful messages and send them sliding down the digital chimney to your loved ones. No need for a sleigh, just run the script and spread the cheer in CLI style! Perfect for code elves looking to sprinkle a bit of merriment into their repositories! 🌟👩‍💻
 
 #### 🦌 03_Advanced - "Reindeer Games"
