@@ -75,5 +75,7 @@ Behold the `Circuitree Glow`, where silicon meets tinsel in a symphony of LED li
 ### 💻 HTML/CSS Spruce Dressed in Holiday Style
 Crafted with care and frosted with CSS, this tree glows warmly in the cold bytes of winter, a true testament to the season's beauty.
 
-... and many more!
+#### 🌟✨ [SpiralChristmasTree](htmlCSS/SpiralChristmasTree) - A Twirling Holiday Spectacle 🌀🎄
+Dive into the holiday season with `SpiralChristmasTree`! This project brings a whimsical twist to traditional festive decor. With just a simple run of the script, watch as a dynamic spiral of holiday lights vividly dances across your screen, adding a touch of warmth and endless joy to the winter season. 🌠🎁 Get ready for a spinning Christmas tree that will twinkle in your code world!
 
+... and many more!
