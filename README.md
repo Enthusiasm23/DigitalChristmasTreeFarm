@@ -60,6 +60,9 @@ Unleash the holiday spirit with a dash of Python magic! The `Christmas Tree Card
 #### 🦌 03_Advanced - "Reindeer Games"
 Advanced projects to elevate your Python skills to the top of the tree. Complex algorithms and sophisticated code structures? No problem!
 
+##### 🎄🎉 [Christmas Tree PyFestivity](python/03_Advanced/ChristmasTreePyFestivity)
+Tired of the same old, same old text-based Python projects? Why not add some festive flair to your code with Christmas Tree `ChristmasTreePyFestivity`! This project will guide you through creating a twinkling Christmas tree right in your command line. It's more fun than playing hide-and-seek with Rudolph, and you'll end up with a merry masterpiece that even Santa can't wait to see! So, pull on your elf shoes, and get ready to code in a winter wonderland! 🧝‍♂️🎄✨
+
 #### 🌠 04_Expert - "Santa's Workshop"
 For those who hear the bells and answer the call of coding mastery. Expert-level challenges to innovate and illuminate the Python skies.
 
