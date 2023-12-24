@@ -96,4 +96,10 @@ Behold the `Crystal Ball Christmas Tree`, a digital masterpiece that spirals int
 #### 🌐 [Snow Globe Christmas Tree](htmlCSS/SnowGlobeChristmasTree/)
 Discover the wonder of the `Snow Globe Christmas Tree`, where each click brings a snowfall of delight! 🌨️🎄 A festive gem that encapsulates the merry essence of the holidays in a whimsical, wintry orb. Navigate to witness a classic holiday charm reimagined for the digital era!
 
+### 🎶 JAVA - A Symphony of Pixels
+In this winter code-land, each line is a string of lights, and every class a gift unwrapped. Our Java Swing crafted tree doesn't just stand—it grooves to the holiday tunes. This digital evergreen transforms your screen into a festive orchestra, playing the carols of the code. 🌟🎹
+
+#### 🎄 [Melodic Christmas Tree](java/MelodicChristmasTree)
+Step into the Java workshop where the `Melodic Christmas Tree` awaits to jazz up your desktop. It’s a merry mix of twinkling lights and coding delights, making spirits bright with every compile and run. Let's swing into a Java-filled jolly holiday! 🎄💻
+
 ... and many more!
