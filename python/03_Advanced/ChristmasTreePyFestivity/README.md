@@ -2,7 +2,7 @@
 
 # 🎄 Christmas Tree PyFestivity 🎉🐍
 
-📜 Read in English | [中文阅读](README.zh.md) 📜
+📜 Read in English | [中文](README.zh.md) 📜
 
 </div>
 
